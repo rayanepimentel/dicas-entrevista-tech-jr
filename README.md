@@ -11,6 +11,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 # Front-end
 - [Angular](/frontend/angular.md)
 - [Javascript](/frontend/javascript.md)
+- [Javascript - dicas da Laboratória](https://github.com/Laboratoria/FrontEnd-Questions/tree/main/manual/pt-BR)
 
 
 # Issue
