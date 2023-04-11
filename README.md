@@ -9,9 +9,10 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 
 
 # Front-end
-- [Angular](/frontend/angular.md)
-- [Javascript](/frontend/javascript.md)
-- [Javascript - dicas da Laboratória](https://github.com/Laboratoria/FrontEnd-Questions/tree/main/manual/pt-BR)
+- [Angular](/frontend/angular.md) :brazil:
+- [Javascript](/frontend/javascript.md) :brazil:
+- [Javascript - dicas da Laboratória](https://github.com/Laboratoria/FrontEnd-Questions/tree/main/manual/pt-BR) :brazil:
+- [Javascript - perguntas e explicações](https://www.interviewbit.com/javascript-interview-questions/#freshers) :us:
 
 
 # Issue
