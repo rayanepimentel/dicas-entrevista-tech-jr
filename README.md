@@ -15,6 +15,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Javascript - dicas da Laboratória](https://github.com/Laboratoria/FrontEnd-Questions/tree/main/manual/pt-BR) :brazil:
 - [Javascript - perguntas e explicações](https://www.interviewbit.com/javascript-interview-questions/#freshers) :us:
 - [30 perguntas e respostas front-end Jr](https://github.com/Willian17/120-perguntas-frontend/blob/main/README.md#junior) :brazil:
+- [Typescript](/frontend/typescript.md) :brazil: 
 
 
 # Issue
