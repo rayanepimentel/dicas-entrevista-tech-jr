@@ -6,7 +6,8 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 
 [Link do tweet](https://twitter.com/cajupluviophile/status/1645546384789995526) 
 
-
+# Relatos
+- [Como é uma entrevista de emprego para desenvolvimento front end - JavaScript](https://woliveiras.com.br/posts/Como-e-uma-entrevista-de-emprego-para-desenvolvimento-front-end-JavaScript/)
 
 # Front-end
 - [Angular](/frontend/angular.md) :brazil:
