@@ -6,8 +6,8 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 
 
 # Relatos e dicas
-- [Como é uma entrevista de emprego para desenvolvimento front end - JavaScript](https://woliveiras.com.br/posts/Como-e-uma-entrevista-de-emprego-para-desenvolvimento-front-end-JavaScript/)
-- [Entrevista técnica para desenvolvedores: veja como se sair bem](https://coodesh.com/blog/candidates/dicas/entrevista-tecnica-para-desenvolvedores/)
+- [Como é uma entrevista de emprego para desenvolvimento front end - JavaScript](https://woliveiras.com.br/posts/Como-e-uma-entrevista-de-emprego-para-desenvolvimento-front-end-JavaScript/) :brazil:
+- [Entrevista técnica para desenvolvedores: veja como se sair bem](https://coodesh.com/blog/candidates/dicas/entrevista-tecnica-para-desenvolvedores/) :brazil:
 - [12 perguntas fundamentais para entrevista com desenvolvedor](https://blog.revelo.com.br/entrevista-com-desenvolvedor/) 🇧🇷
 - [Junior: Dicas para entrevistas, bootcamp, dia a dia, e um pouco mais!](https://www.youtube.com/watch?v=AQ2_gjFrZB4&ab_channel=JulianoMartins) 🇧🇷
 
