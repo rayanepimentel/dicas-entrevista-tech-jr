@@ -4,10 +4,10 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 
 <br>
 
-[Link do tweet](https://twitter.com/cajupluviophile/status/1645546384789995526) 
 
 # Relatos
 - [Como é uma entrevista de emprego para desenvolvimento front end - JavaScript](https://woliveiras.com.br/posts/Como-e-uma-entrevista-de-emprego-para-desenvolvimento-front-end-JavaScript/)
+- [Entrevista técnica para desenvolvedores: veja como se sair bem](https://coodesh.com/blog/candidates/dicas/entrevista-tecnica-para-desenvolvedores/)
 
 # Front-end
 - [Angular](/frontend/angular.md) :brazil:
@@ -16,6 +16,8 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Javascript - perguntas e explicações](https://www.interviewbit.com/javascript-interview-questions/#freshers) :us:
 - [30 perguntas e respostas front-end Jr](https://github.com/Willian17/120-perguntas-frontend/blob/main/README.md#junior) :brazil:
 - [Typescript](/frontend/typescript.md) :brazil: 
+- [Perguntas de entrevista Pessoa Desenvolvedor front end júnior - Glassdoor](https://www.glassdoor.com.br/Entrevista/desenvolvedor-front-end-j%C3%BAnior-perguntas-entrevista-SRCH_KO0,30.htm) :brazil: :us: 🇪🇸
+- [29 Perguntas e respostas da entrevista do desenvolvedor de front-end (2023)](https://www.collectiveray.com/pt/Perguntas-e-respostas-da-entrevista-do-desenvolvedor-de-front-end) :brazil:
 
 
 # Issue
