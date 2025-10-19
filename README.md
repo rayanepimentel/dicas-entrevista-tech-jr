@@ -33,6 +33,21 @@ Dicas:
 - Você pode add uma assunto e links para estudo
 - Você pode add uma pergunta, add uma possivel resposta/explicação e com links para estudo.
 
+# Hacktoberfest
+Abri o projeto para o Hacktoberfest \o/ <br>
+Escolha qualquer uma das atividades acima e mande o seu PR <br>
+O projeto já tá mais da metade da primeira fase, mas você pode colocar coisas novas, melhorar, refazer o que já foi feito... qualquer contrituição será bem-vinda!!!
+
+## 📌 Como contribuir
+
+- Fork e clone
+- Crie um branch para sua contribuição: git checkout -b minha-branch
+- Commit suas mudanças: git commit -m ‘Adicionando contribuição…’
+- Push para o branch: git push origin minha-branch
+- Envie seu pull request ❤
+
+
+
 **Sempre inclua links para estudo!**
 
 Obrigada <3
