@@ -10,7 +10,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Entrevista técnica para desenvolvedores: veja como se sair bem](https://coodesh.com/blog/candidates/dicas/entrevista-tecnica-para-desenvolvedores/) :brazil:
 - [12 perguntas fundamentais para entrevista com desenvolvedor](https://blog.revelo.com.br/entrevista-com-desenvolvedor/) 🇧🇷
 - [Junior: Dicas para entrevistas, bootcamp, dia a dia, e um pouco mais!](https://www.youtube.com/watch?v=AQ2_gjFrZB4&ab_channel=JulianoMartins) 🇧🇷
-- [Best Backend Developers' Interview Questions And Answers](https://www.ideamotive.co/backend/interview) :us:
+- [50 Popular Backend Developer Interview Questions and Answers](https://roadmap.sh/questions/backend) :us:
 
 # Simuladores de entrevista
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/) :us:
