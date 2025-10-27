@@ -11,6 +11,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [12 perguntas fundamentais para entrevista com desenvolvedor](https://blog.revelo.com.br/entrevista-com-desenvolvedor/) 🇧🇷
 - [Junior: Dicas para entrevistas, bootcamp, dia a dia, e um pouco mais!](https://www.youtube.com/watch?v=AQ2_gjFrZB4&ab_channel=JulianoMartins) 🇧🇷
 - [50 Popular Backend Developer Interview Questions and Answers](https://roadmap.sh/questions/backend) :us:
+- [Entrevista Técnica de Programadores Junior: Perguntas e Respostas](https://programadorinteligente.com.br/soft-skills/entrevista-tecnica-de-programadores-junior/) :brazil:
 
 # Simuladores de entrevista
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/) :us:
@@ -25,6 +26,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Perguntas de entrevista Pessoa Desenvolvedor front end júnior - Glassdoor](https://www.glassdoor.com.br/Entrevista/desenvolvedor-front-end-j%C3%BAnior-perguntas-entrevista-SRCH_KO0,30.htm) :brazil: :us: 🇪🇸
 - [29 Perguntas e respostas da entrevista do desenvolvedor de front-end (2023)](https://www.collectiveray.com/pt/Perguntas-e-respostas-da-entrevista-do-desenvolvedor-de-front-end) :brazil:
 - [Introdução à entrevista (HTML, CSS e JS) - Grasshopper](https://learn.grasshopper.app/project/intro-to-interviewing) :brazil: :us: 🇪🇸 Será desabilitado em Junho.
+- [Entrevistar DEV Front-end React: veja 50 dicas de perguntas](https://coodesh.com/blog/rh-tech/entrevistar-dev-front-end-react-veja-50-dicas-de-perguntas/) :brazil:
 
 
 # Issue
