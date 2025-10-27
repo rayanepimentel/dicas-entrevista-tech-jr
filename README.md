@@ -12,6 +12,7 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Junior: Dicas para entrevistas, bootcamp, dia a dia, e um pouco mais!](https://www.youtube.com/watch?v=AQ2_gjFrZB4&ab_channel=JulianoMartins) 🇧🇷
 - [50 Popular Backend Developer Interview Questions and Answers](https://roadmap.sh/questions/backend) :us:
 - [Entrevista Técnica de Programadores Junior: Perguntas e Respostas](https://programadorinteligente.com.br/soft-skills/entrevista-tecnica-de-programadores-junior/) :brazil:
+- [Stack Vagas – Checklist para entrevistas técnicas júnior](https://www.stackvagas.dev/blog/checklist-entrevista-programador) 🇧🇷
 
 # Simuladores de entrevista
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/) :us:
@@ -28,6 +29,13 @@ Eu não sou uma recrutadora, criei este repositório com o objetivo de ajudar pe
 - [Introdução à entrevista (HTML, CSS e JS) - Grasshopper](https://learn.grasshopper.app/project/intro-to-interviewing) :brazil: :us: 🇪🇸 Será desabilitado em Junho.
 - [Entrevistar DEV Front-end React: veja 50 dicas de perguntas](https://coodesh.com/blog/rh-tech/entrevistar-dev-front-end-react-veja-50-dicas-de-perguntas/) :brazil:
 
+# Plataformas de Prática de Código
+
+- LeetCode - Problemas de algoritmos com filtro por dificuldade (comece pelo Easy) 🌎
+- HackerRank - Desafios de programação com tutoriais 🌎
+- Exercism - Exercícios de Python com mentoria gratuita 🌎
+- Codewars - Katas de programação gamificados 🌎
+- Beecrowd (antigo URI) - Problemas de programação em português 🇧🇷
 
 # Issue
 Quer incluir uma questão ou assunto? abra uma issue e envie o seu PR. Lembrando sempre será voltado para jr.
